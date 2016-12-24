@@ -7,7 +7,6 @@ brew 'tree'
 brew 'youtube-dl'
 brew 'wget'
 brew 'watch'
-brew 'rsync'
 
 cask 'google-chrome'
 cask 'dropbox'
@@ -19,4 +18,4 @@ cask 'iterm2'
 cask 'slack'
 cask 'virtualbox'
 cask 'flux' 
-
+cask 'vyprvpn'
