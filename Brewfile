@@ -1,0 +1,22 @@
+cask_args appdir: '/Applications'
+tap 'caskroom/cask'
+
+brew 'nvm'
+brew 'openssl'
+brew 'tree'
+brew 'youtube-dl'
+brew 'wget'
+brew 'watch'
+brew 'rsync'
+
+cask 'google-chrome'
+cask 'dropbox'
+cask '1password'
+cask 'docker'
+cask 'atom'
+cask 'firefox'
+cask 'iterm2'
+cask 'slack'
+cask 'virtualbox'
+cask 'flux' 
+
