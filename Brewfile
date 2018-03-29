@@ -8,6 +8,7 @@ brew 'youtube-dl'
 brew 'wget'
 brew 'watch'
 brew 'git'
+brew 'yarn'
 
 cask 'google-chrome'
 cask 'dropbox'
