@@ -7,6 +7,7 @@ brew 'tree'
 brew 'youtube-dl'
 brew 'wget'
 brew 'watch'
+brew 'git'
 
 cask 'google-chrome'
 cask 'dropbox'

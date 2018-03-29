@@ -13,4 +13,5 @@ It should:
 - Install [useful CLI programs](Brewfile) via brew.
 - Install [useful GUI apps](Brewfile) via brew.
 - Setup a number of MacOS [environment variables](macos.sh).
-- Add useful [aliases](aliases.sh).
+- Add useful [CLI aliases](aliases.sh).
+- Add [git aliases](git.sh).
