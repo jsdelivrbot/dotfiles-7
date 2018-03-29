@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-# Ask for the administrator password upfront
-sudo -v
+echo "Setting up MacOS shortcuts..."
 
 # Finder: show path bar
 defaults write com.apple.finder ShowPathbar -bool true
