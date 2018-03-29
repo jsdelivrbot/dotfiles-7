@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo "Setting up git shortcuts..."
+
 git config --global user.email charlie@sonniesedge.co.uk
 git config --global user.name "Charlie Owen"
 
