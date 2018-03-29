@@ -15,3 +15,5 @@ It should:
 - Setup a number of MacOS [environment variables](macos.sh).
 - Add useful [CLI aliases](aliases.sh).
 - Add [git aliases](git.sh).
+
+![](https://media.giphy.com/media/xT5LMFcb2dlcHqZyaQ/giphy.gif)
