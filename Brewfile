@@ -1,5 +1,6 @@
 cask_args appdir: '/Applications'
 tap 'caskroom/cask'
+tap 'caskroom/versions'
 
 brew 'nvm'
 brew 'openssl'
@@ -11,6 +12,7 @@ brew 'git'
 brew 'yarn'
 
 cask 'google-chrome'
+cask 'google-chrome-canary'
 cask 'dropbox'
 cask '1password'
 cask 'iterm2'
