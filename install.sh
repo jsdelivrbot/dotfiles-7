@@ -12,8 +12,7 @@ fi
 
 brew update
 
-mkdir $HOME/Sites
-mkdir $HOME/Projects
+mkdir $HOME/Code
 
 # Install all our dependencies with bundle (See Brewfile)
 brew tap homebrew/bundle
