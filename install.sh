@@ -27,7 +27,7 @@ fi
 
 
 # Install all our dependencies with bundle (See Brewfile)
-echo "Setting up brew..."
+echo "Setting up Homebrew..."
 brew tap homebrew/bundle
 brew bundle
 
