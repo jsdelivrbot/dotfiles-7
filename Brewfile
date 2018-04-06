@@ -30,6 +30,7 @@ cask 'caskroom/cask/vyprvpn'
 cask 'caskroom/cask/visual-studio-code'
 cask 'caskroom/cask/charles'
 cask 'caskroom/cask/cleanmymac'
+cask 'caskroom/cask/whatsapp'
 
 cask 'caskroom/fonts/font-roboto-slab' 
 cask 'caskroom/fonts/font-open-sans'
