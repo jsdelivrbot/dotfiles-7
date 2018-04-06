@@ -1,0 +1,20 @@
+{
+  "default_hour": 9, 
+  "linewrap": 79, 
+  "encrypt": false, 
+  "default_minute": 0, 
+  "tagsymbols": "@", 
+  "editor": "vim", 
+  "timeformat": "%Y-%m-%d %H:%M", 
+  "highlight": true, 
+  "journals": {
+    "personal": {
+      "journal": "~/Dropbox/_journals/personal.txt", 
+      "encrypt": true
+    },
+    "default": {
+      "journal": "~/Dropbox/_journals/work.txt", 
+      "encrypt": false
+    }
+  }
+}
