@@ -21,6 +21,7 @@ if test ! $(which brew); then
 fi
 
 if [ ! -d "$HOME/Code" ]; then
+  echo "Why aren't you already using the ~/Code directory to store this repo?"
   mkdir $HOME/Code
 fi
 
