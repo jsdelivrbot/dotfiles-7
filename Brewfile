@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 tap 'caskroom/cask'
 tap 'caskroom/versions'
+tap 'caskroom/fonts'
 
 brew 'nvm'
 brew 'openssl'
@@ -28,3 +29,6 @@ cask 'caskroom/cask/vyprvpn'
 cask 'caskroom/cask/visual-studio-code'
 cask 'caskroom/cask/charles'
 cask 'caskroom/cask/cleanmymac'
+
+cask 'caskroom/fonts/font-roboto-slab' 
+cask 'caskroom/fonts/font-open-sans'
