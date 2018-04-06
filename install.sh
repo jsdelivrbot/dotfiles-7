@@ -24,13 +24,8 @@ if [ ! -d "$HOME/Code" ]; then
   mkdir $HOME/Code
 fi
 
-
-
-# Install all our dependencies with bundle (See Brewfile)
-echo "Setting up Homebrew..."
-brew tap homebrew/bundle
-brew bundle
-
+# Run specialist scripts
+./brew.sh
 ./macos.sh
 ./aliases.sh
 ./git.sh
