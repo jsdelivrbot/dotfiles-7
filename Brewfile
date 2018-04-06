@@ -10,6 +10,8 @@ brew 'wget'
 brew 'watch'
 brew 'git'
 brew 'yarn'
+brew 'ffmpeg'
+brew 'zsh-completions'
 
 cask 'caskroom/cask/google-chrome'
 cask 'caskroom/versions/google-chrome-canary'
