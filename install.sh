@@ -34,3 +34,4 @@ brew bundle
 ./macos.sh
 ./aliases.sh
 ./git.sh
+./notes.sh
