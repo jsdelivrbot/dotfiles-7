@@ -16,6 +16,7 @@ brew 'zsh-completions'
 brew 'jrnl'
 
 cask 'caskroom/cask/google-chrome'
+cask 'caskroom/cask/firefox'
 cask 'caskroom/versions/google-chrome-canary'
 cask 'caskroom/cask/dropbox'
 cask 'caskroom/cask/1password'
