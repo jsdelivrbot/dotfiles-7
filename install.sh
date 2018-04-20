@@ -31,3 +31,7 @@ fi
 ./aliases.sh
 ./git.sh
 ./notes.sh
+
+# Bookmetrix
+brew services start redis
+brew services start postgresql

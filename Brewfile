@@ -14,6 +14,7 @@ brew 'yarn'
 brew 'ffmpeg'
 brew 'zsh-completions'
 brew 'jrnl'
+brew 'pv'
 
 cask 'caskroom/cask/google-chrome'
 cask 'caskroom/cask/firefox'
@@ -37,3 +38,9 @@ cask 'caskroom/cask/sublime-text'
 
 cask 'caskroom/fonts/font-roboto-slab' 
 cask 'caskroom/fonts/font-open-sans'
+
+
+# Bookmetrix
+
+brew 'postgresql'
+brew 'redis'
