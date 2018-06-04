@@ -37,6 +37,7 @@ cask 'caskroom/cask/imageoptim'
 cask 'caskroom/cask/sublime-text'
 cask 'caskroom/cask/vlc'
 cask 'caskroom/cask/grandperspective'
+cask 'caskroom/cask/sketch'
 
 cask 'caskroom/fonts/font-roboto-slab' 
 cask 'caskroom/fonts/font-open-sans'
